@@ -1,0 +1,31 @@
+body{
+    margin: 0 auto;
+    padding: 0 auto;
+    background-color: bisque;
+}
+.login{
+    width: 200px;
+    height: 250px;
+    background-color: tomato;
+    margin: 80px 900px;
+    padding-inline: 10px;
+    text-align: center;
+    border-radius: 20px;
+padding:100px 50px 80px 60px;
+}
+.login h1{
+    color:white;
+text-align: center;
+}
+input[type="submit"]{
+   background-color: antiquewhite; 
+}
+.input[type="submit"]:hover{
+    background-color:yellowgreen;
+}
+.input[type="button"]{
+    background-color: yellowgreen;
+}
+.input[type="button"]:hover{
+    background-color:brown;
+}
